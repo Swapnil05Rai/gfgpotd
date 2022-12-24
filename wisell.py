@@ -35,4 +35,4 @@ Calculate the amount of wine that the current house at index i is demanding as e
 Calculate the total work required to transfer the wine from the buying house at index j to the current house at index i as mul1 = ele1 * dist. Calculate the total work required to transfer the wine from the current house at index i to the buying house at index j as mul2 = ele2 * dist.
 Compare mul1 and mul2 and choose the minimum value. Update the demand of the current house at index i and the buying house at index j accordingly. Add the minimum value to the sum variable.
 Repeat the loop until i or j becomes greater than or equal to N.
-Return the sum variable as the result.""
+Return the sum variable as the result."""
