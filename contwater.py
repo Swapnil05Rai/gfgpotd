@@ -11,7 +11,7 @@ def maxArea(A, le):
             right -= 1
     return max_area
 
-"""The function first initializes three variables:
+""" The function first initializes three variables:
 
 max_area to store the maximum area found so far, initialized to 0
 left to store the index of the current left line, initialized to the first element of the array
